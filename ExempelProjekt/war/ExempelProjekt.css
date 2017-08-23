@@ -1,0 +1,80 @@
+
+body{
+	background-image: url(images/calcImg.jpg);
+	margin: auto;
+	padding: 10px;
+	width: 1000px;
+	height: 800px;
+	
+}
+
+section{
+	border: 10px solid green;
+	background-color: black;
+}
+
+
+article{
+	margin: auto; 
+	border: 3px solid yellow;
+	width: 50%;
+	background-color: white;
+	padding: 40px;
+	margin: auto;
+	margin-bottom: 70px;
+}
+
+footer{
+	border: 10px solid green;
+	margin-top: 100px;
+	color: white;
+	text-align: center;
+	width: 980px;
+	background-color: black;
+}
+
+header{
+	background-color: blue;
+	margin: auto;
+	margin-bottom: 10px;
+	width: 50%;
+	color: white;
+	font-style: italic;
+	border: 1px solid blue;
+	postion: center;
+	text-align: center;
+	border: 3px solid yellow;
+}
+
+img{
+	margin-left: 43%;
+	width: 15%;
+}
+
+.calcListHeader{
+	background-color: #2062B8;
+	color: white;
+	padding: 4px;
+	font-style: italic;
+}
+
+.calcList{
+	border: 1px solid red;
+	padding: 5px;
+	margin: auto;
+	color: white;
+}
+
+.calcListPanel{
+	margin: auto;
+	padding: 4px;
+	position: relative;
+	margin-bottom: 20px;
+	height: 100px;
+	background-color: blue;
+	border: 5px solid green;
+}
+.operatorTextBox{
+	background-color: black;
+	color: white;
+}
